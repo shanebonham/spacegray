@@ -186,16 +186,29 @@
 				<key>foreground</key>
 				<string>#96b5b4</string>
 			</dict>
-		</dict>
+	</dict>
 		<dict>
 			<key>name</key>
-			<string>Strings, Inherited Class</string>
+			<string>Strings</string>
 			<key>scope</key>
-			<string>string, constant.other.symbol, entity.other.inherited-class</string>
+			<string>string, constant.other.symbol</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
 				<string>#a3be8c</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Inherited Class</string>
+			<key>scope</key>
+			<string>entity.other.inherited-class</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>italic</string>
+				<key>foreground</key>
+				<string>#677764</string>
 			</dict>
 		</dict>
 		<dict>
